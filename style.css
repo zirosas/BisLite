@@ -1,0 +1,128 @@
+/*
+Theme Name: BisLite
+Theme URI: http://www.graphicsfuel.com/
+Description: BisLite with Bootstrap
+Author: Jiro Sas
+Author URI: http://zirosas.wordpress.com/
+Version: 1.0
+Tags: bootstrap
+*/
+
+.container {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+/* Top */
+.top {
+	height: 120px;
+	background-color: #e8ebf1;
+}
+
+.logo {
+	background: transparent url(img/logo.png) no-repeat center;
+	height: 40px;
+	width: 152px;
+	padding: 30px 0;
+	text-indent: -9999px;
+}
+
+/* Header */
+.header {
+	height: 500px;
+	background-color: #81e4ed;
+}
+
+.slider {
+	padding-top: 20px;
+}
+
+.topcontent {
+	background-color: #e8ebf1;
+	padding: 20px 0;
+}
+
+.maincontent {
+	padding: 20px 0;
+}
+
+.download {
+	background-color: #e8fcfe;
+	padding: 30px;
+	border: solid 2px #81e4ed;
+}
+
+/* Footer */
+.footer {
+	padding: 20px 0;
+	height: 320px;
+	background-color: #e8ebf1;	
+}
+
+/* Post */
+.post {
+	padding: 20px;
+}
+
+
+/* Title */
+.icontile {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 16px;
+	padding: 25px 0 0 50px;
+	height: 45px;
+}
+
+.icontile a:hover {
+	text-decoration: none;
+}
+
+.pencil {
+	background: transparent url(img/pencil.png) no-repeat left center;
+}
+
+.pencil:hover {
+	background: transparent url(img/pencil-dark.png) no-repeat left center;
+}
+
+.air {
+	background: transparent url(img/air.png) no-repeat left center;
+}
+
+.air:hover {
+	background: transparent url(img/air-dark.png) no-repeat left center;
+}
+
+.square {
+	background: transparent url(img/square.png) no-repeat left center;
+}
+
+.square:hover {
+	background: transparent url(img/square-dark.png) no-repeat left center;
+}
+
+.three {
+	background: transparent url(img/three.png) no-repeat left center;
+}
+
+.three:hover {
+	background: transparent url(img/three-dark.png) no-repeat left center;
+}
+
+.arrow {
+	background: transparent url(img/arrow.png) no-repeat left center;
+}
+
+.client {
+	background: transparent url(img/client.png) no-repeat left center;
+}
+
+.down {
+	display:inline-block;
+	width: 200px;
+	vertical-align: middle;
+	padding: 10px 0;
+	background: transparent url(img/client.png) no-repeat left center;
+	font-weight: bold;
+}
